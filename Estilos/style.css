@@ -1,0 +1,74 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/cb/2a/79/cb2a79fecd5a1a71cb629c7b8e9827f3.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-enlace{
+    display: inline-block;
+    background:rgb(189, 118, 189);
+    color:rgb(70, 17, 8);
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.nav-enlace:hover{
+    border-radius: 25px;
+    background:rgba(148, 79, 148, 0.726);
+}
+
+.nav-enlace:active {
+    border: solid;
+    border-color: rgb(226, 175, 233);
+    border-radius: 25px;
+    border-width: 2px;
+}
+
+.rounded{
+    background:rgba(216, 171, 216, 0.842);
+    padding: 10px;
+}
+
+p {
+    color: rgba(6, 6, 88, 0.877);
+    font-size:18px;
+
+}
+
+p {
+    font-family: 'Bitter', serif;
+  }
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Bitter', serif;
+}
+
+h2 {
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Bitter', serif;
+}
+
+aside{
+    float: right;
+    text-align: justify;
+    width: 30%;
+    margin: 30px;
+}
+
+header {
+     float: left;
+     width: 70%;
+     padding-right: 100px;
+     margin: 35px 20px;
+}
+
+main {
+    text-align: justify;
+	width: 900px;
+	margin: 0px;
+	padding: 10px;
+}
+
+
+
